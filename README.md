@@ -20,7 +20,7 @@ Além disso, é chamada de Multiple Regression por observar várias variáveis.
 
 ### Random Forest Regression
 O modelo de Random Forest Regression é um algorítimo supervisionado, que cria florestas de decisão (várias árvores de decisão unidas) e adiciona aleatoriedade no modelo, buscando sua melhor característica. 
-Para entender melhor seu funcionamento, é necessário compreender as árvores de decisão. Dessa forma, as árvores de decisão, estabelecem regras para tomada de decisão criando estruturas parecidas com fluxogramas, que filtram a tomada de decisão a partir de nós, assim, quanto mais treinos realizados, mais eficaz será o caminho traçado pela árvore. Sendo assim, o algorítimo devolve um modelo que considera os valores não lineares, facilitando sua configuração para ser um classificador ou um modelo de regressão, além de funcionar com variáveis aleatórias e continuas.
+Para entender melhor seu funcionamento, é necessário compreender as árvores de decisão. Dessa forma, as árvores de decisão, estabelecem regras para tomada de decisão criando estruturas parecidas com fluxogramas, que filtram a tomada de decisão a partir de nós, assim, quanto mais treinos realizados, mais eficaz será o caminho traçado pela árvore. Além disso, o algorítimo devolve um modelo que considera os valores não lineares, facilitando sua configuração para ser um classificador ou um modelo de regressão, além de funcionar com variáveis aleatórias e continuas.
 
 ### Referências:
 
